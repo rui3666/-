@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a7f6fc3-73b1-49ae-9fad-fd7ae5727f16" name="Default" comment="SpringSecurity实现登录认证">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhikao-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zhikao-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhikao-server/target/classes/com/xxxx/server/config/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/zhikao-server/target/classes/com/xxxx/server/config/Swagger2Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zhikao-server/zhikao-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zhikao-server/zhikao-server.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -360,11 +357,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649427324642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649427581780" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -469,7 +466,7 @@
       <workItem from="1648542419480" duration="3281000" />
       <workItem from="1649247449496" duration="4053000" />
       <workItem from="1649251563305" duration="3496000" />
-      <workItem from="1649255693336" duration="25803000" />
+      <workItem from="1649255693336" duration="26368000" />
     </task>
     <task id="LOCAL-00001" summary="SpringSecurity实现登录认证">
       <created>1649423407153</created>
@@ -478,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1649423407153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SpringSecurity实现登录认证">
+      <created>1649427424862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649427424862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44259000" />
+    <option name="totallyTimeSpent" value="44824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -507,14 +511,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961783" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3197158" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3197158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41487604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32786885" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32846716" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" visible="true" weight="0.3268206" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3268206" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32846716" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32846716" />
